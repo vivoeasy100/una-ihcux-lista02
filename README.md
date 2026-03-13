@@ -15,3 +15,4 @@ Arquivos que o .NET criou para mim:
 
 ## 📸 Evidência de Execução
 
+https://github.com/vivoeasy100/una-ihcux-lista02/blob/main/Captura%20de%20tela%202026-03-13%20014304.png
